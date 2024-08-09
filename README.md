@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Njambi-Mwangi
-- 👀 I’m interested in data analytics and the whole technology in general
-- 🌱 I’m currently learning data science but open to learning new things
-- 💞️ I’m looking to collaborate on coming up with ways of solving problems using tech
-- 📫 You can reach me through instagram _.g.i.n.n.y _ or tiktok @vee_njambi
+- 👀 I’m a student learning statistics
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on open projects testing our analytics skills
+- 📫 You can reach me through linkedin and instagram
 - 😄 Pronouns: her/she
+- fun fact:I was never interested in tech until a year ago
   
 
 <!---
