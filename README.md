@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Njambi-Mwangi
 - 👀 I’m a student learning statistics
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently self teaching data science
 - 💞️ I’m looking to collaborate on open projects testing our analytics skills
 - 📫 You can reach me through linkedin and instagram
 - 😄 Pronouns: her/she
